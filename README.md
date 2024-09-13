@@ -67,8 +67,8 @@ Certifique-se de que as seguintes dependências estão incluídas no seu arquivo
 # Configuração do Projeto
 
 ### 1 - Clone o repositório:
-git clone <URL_DO_REPOSITORIO> 
-cd <NOME_DO_REPOSITORIO>
+git clone git@github.com:zezerinomattos/Automacao-getnet-test-front-end.git 
+cd Automacao-getnet-test-front-end
 
 ### 2 - Instale as dependências do Maven:
 mvn install
